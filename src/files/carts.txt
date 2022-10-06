@@ -1,0 +1,22 @@
+[
+  {
+    "productos": [
+      {
+        "id": 2,
+        "quantity": 4
+      }
+    ],
+    "id": 2,
+    "timestamp": 1662044390141
+  },
+  {
+    "productos": [
+      {
+        "id": 2,
+        "quantity": 8
+      }
+    ],
+    "id": 3,
+    "timestamp": 1662044391682
+  }
+]

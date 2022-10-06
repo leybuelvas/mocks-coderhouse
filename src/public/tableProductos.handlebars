@@ -1,0 +1,21 @@
+ {{#if productos}}
+    <table class="table table-dark table-striped align-middle">
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Foto</th>
+        </tr>
+        {{#each productos}}
+            <tr>
+                <td class="table-dark">{{this.title}}</td>
+                <td class="table-dark">{{this.price}}</td>
+                <td class="table-dark"><img src={{this.thumbnail}} width="100px"></td>
+            </tr>                
+        {{/each}}
+    </table>
+{{else}}
+    <div class="container-fluid bg-warning">
+        <h3 class="text-dark">No se encontraron productos.</h3>
+    </div>        
+{{/if}}
+

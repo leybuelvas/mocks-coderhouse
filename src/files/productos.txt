@@ -1,0 +1,23 @@
+[
+    {
+        "title": "cama",
+        "price": "100",
+        "thumbnail": "https://img.lovepik.com/free-png/20211231/lovepik-bed-png-image_401110416_wh860.png",
+        "id": 11,
+        "timestamp": 1662044390141
+    },
+    {
+        "title": "globo",
+        "price": "120",
+        "thumbnail": "https://e7.pngegg.com/pngimages/94/914/png-clipart-red-balloon-balloon-red.png",
+         "id": 21,
+         "timestamp": 16620443901
+    },
+    {
+        "title": "almohada",
+        "price": "580",
+        "thumbnail": "https://w7.pngwing.com/pngs/526/824/png-transparent-throw-pillows-cushion-duvet-almohada-textile-throw-pillow-linens.png",
+        "id": 2,
+        "timestamp": 1662679144065
+    }
+]
